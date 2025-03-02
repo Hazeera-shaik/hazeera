@@ -1,0 +1,56 @@
+** start of undefined **
+
+body{
+  background-color: peachpuff;
+}
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  width: 500px;
+  border-radius: 5px;
+}
+h1,h2,p{
+ text-align: center;
+}
+#img-div{ 
+   background-color: lightgray;
+   padding-top: 50px;
+   padding-bottom: 20px;
+   border-radius: 5px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+ul{
+  position: static;
+  overflow: visible;
+  display: block;
+  text-align: justify;
+  padding-left: 400px;
+}
+ul,li{
+  line-height: 1.5;
+}
+.msg{
+  font-weight: bold;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 1.5;
+}
+.footer{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+a{
+  color: midnightblue;
+}
+span{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
+** end of undefined **
